@@ -30,8 +30,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Tetris (del cirílico Те́трис) (anteriormente estilizado como TETЯIS) es un videojuego de lógica soviético originalmente diseñado y programado por Alekséi Pázhitnov
+[Wikipedia](https://es.wikipedia.org/wiki/Tetris)
 
+- [Tetris](./puzzle/tetris.md)
 - Tetris
 
 ## Sandbox
